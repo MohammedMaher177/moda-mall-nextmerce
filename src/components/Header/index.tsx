@@ -65,9 +65,10 @@ const Header = () => {
             <Link className="flex-shrink-0" href="/">
               <Image
                 src="/images/logo/logo.svg"
-                alt="Logo"
+                alt="Moda Mall Logo"
+                className="w-22"
                 width={219}
-                height={36}
+                height={19}
               />
             </Link>
 
