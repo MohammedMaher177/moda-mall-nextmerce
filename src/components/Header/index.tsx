@@ -66,7 +66,7 @@ const Header = () => {
               <Image
                 src="/images/logo/logo.svg"
                 alt="Moda Mall Logo"
-                className="w-22"
+                className="w-18"
                 width={219}
                 height={19}
               />
